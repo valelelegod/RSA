@@ -1,0 +1,15 @@
+E:\Facultate\RSA\RSA\bin\Release\net6.0\RSA.exe
+E:\Facultate\RSA\RSA\bin\Release\net6.0\RSA.deps.json
+E:\Facultate\RSA\RSA\bin\Release\net6.0\RSA.runtimeconfig.json
+E:\Facultate\RSA\RSA\bin\Release\net6.0\RSA.dll
+E:\Facultate\RSA\RSA\bin\Release\net6.0\RSA.pdb
+E:\Facultate\RSA\RSA\obj\Release\net6.0\RSA.csproj.AssemblyReference.cache
+E:\Facultate\RSA\RSA\obj\Release\net6.0\RSA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\RSA\RSA\obj\Release\net6.0\RSA.AssemblyInfoInputs.cache
+E:\Facultate\RSA\RSA\obj\Release\net6.0\RSA.AssemblyInfo.cs
+E:\Facultate\RSA\RSA\obj\Release\net6.0\RSA.csproj.CoreCompileInputs.cache
+E:\Facultate\RSA\RSA\obj\Release\net6.0\RSA.dll
+E:\Facultate\RSA\RSA\obj\Release\net6.0\refint\RSA.dll
+E:\Facultate\RSA\RSA\obj\Release\net6.0\RSA.pdb
+E:\Facultate\RSA\RSA\obj\Release\net6.0\RSA.genruntimeconfig.cache
+E:\Facultate\RSA\RSA\obj\Release\net6.0\ref\RSA.dll
